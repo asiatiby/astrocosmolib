@@ -170,3 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 *.tex
+SN/
+tutorialnew/
+fit.png
+fit_multi.png
+test/*.ran.fits
+test/*.dat.fits
